@@ -1,3 +1,11 @@
-# writing-stuff
-Who needs a blog when you have github
-[link](/test/another-test.md) 
+# Writing Stuff
+
+## A simple thing for my thoughts
+
+Who needs a blog when you have Github?
+
+### Main Links
+
+[lAbout](/about/about.md) 
+
+### Posts
