@@ -2,8 +2,5 @@
 
 Who needs a blog when you have Github?
 
-### Main Links
+[About](https://ultraloveninja.github.io/writing-stuff/about) 
 
-[About](/about/about.md) 
-
-### Posts
