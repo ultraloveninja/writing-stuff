@@ -1,9 +1,9 @@
 title:              Writing Stuff
 # email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
+description:        This is nothing fancy, but it works
 author:             ultraloveninja
 baseurl:            "/writing-stuff"
-url:                "https://startbootstrap.github.io"
+url:                "https://ultraloveninja.github.io/writing-stuff/"
 
 # Social Profiles
 #twitter_username:   SBootstrap
